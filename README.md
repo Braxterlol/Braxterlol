@@ -3,7 +3,7 @@
 <p align="left">
   🎓 Software Engineering student at Universidad Politécnica de Chiapas — graduating April 2026<br>
   💻 Passionate about building clean, scalable web solutions with Python and JavaScript/TypeScript<br>
-  🌱 Currently working as a Full-Stack Developer Intern at Httcomerce<br>
+  🌱 Currently working as a Software Engineer JR at Seguros Monterrey New York Life<br>
   🚀 I enjoy solving real problems<br>
   📫 Reach me at bryaam203@gmail.com
 </p>
