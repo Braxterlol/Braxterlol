@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Bryam and I'm a Full-Stack Developer, from Chiapas, México</h2>
 
 <p align="left">
-  🎓 Software Engineering graduted from Universidad Politécnica de Chiapas<br>
+  🎓 Software Engineering graduated from Universidad Politécnica de Chiapas<br>
   💻 Passionate about building clean, scalable web solutions with Python and JavaScript/TypeScript<br>
   🌱 Currently working as a Software Engineer JR at Seguros Monterrey New York Life<br>
   🚀 I enjoy solving real problems<br>
